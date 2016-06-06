@@ -1,0 +1,12 @@
+Dell AlienWare M17X R5 
+
+Processor		 : Intel® Core™ i7-4800MQ 2.7 Ghz 6M Cache (turbo boost up to 3,7GHz) 
+RAM		 : 16GB DDR3L 
+Grapichs Card	 : Nvidia GeForce GTX780M 4GB 
+Hard Drive		 : 750GB 7200RPM Sata 3Gbps + 64 GB SSD 
+Display		 : 17.3 Inch FHD WLED Resolusi (1920×1080) Anti Glare Display 
+Optical		 : Blue Ray Drive 
+Sound Card	 : Dolby Audio 
+Battery		 : 8-cell battery 
+Network 		 : Broadcom 4352 802.11 ac
+www.alienware.com
