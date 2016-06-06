@@ -1,0 +1,64 @@
+GT80S 6QE Titan SLI 
+
+•	CPU			 :	Latest 6th Gen. Intel® Core™ i7 processor 
+
+•	OS		 	 :	Windows 10 Home
+             					Windows 10 Pro 
+
+•	Chipset			 : 	Intel® CM236 
+
+•	Memory 			 :	DDR4-2133, 4 slots, up to 64GB 
+
+•	Display 			 :	18.4” Full HD (1920x1080), Wide-viewing angle, IPS level panel 
+
+•	Graphics 			 :	GeForce GTX 980M SLI 
+
+•	Graphics VRAM	 	 :	8 / 4GB GDDR5 
+
+•	Storage			 :	1 x 2.5" HDD 
+        					up to Super Raid 4 (2x NVMe M.2 SSDs by PCIe Gen3 X4 in RAID0)             
+                              				(Optional) 
+
+•	Optical Drive 		 :	BD Writer / DVD Super Multi 
+
+•	Audio			 :	Sound by Dynaudio with Woofer
+ 					ESS SABRE HiFi audio DAC technology
+ 					Nahimic Audio Enhancer 
+
+•	Webcam	 		 :	Full HD type (30fps@1080p) 
+
+•	Card Reader	 	 :	SD (XC/HC) 
+
+•	LAN		 	 :	Killer Gb LAN with Killer Shield 
+
+•	Wireless LAN	 	 :	Killer ac 
+
+•	Bluetooth		 	 :	Bluetooth v4.1 
+
+•	HDMI		 	 :	1 (4K output @60Hz) 
+
+•	USB 3.0 port	 	 :	5 
+
+•	USB 3.1 port 	 	 :	1x USB 3.1 Type-C 
+
+•	Thunderbolt™ 3		 :	USB3.1 Type-C interface, 4K output, 3A output charging    
+  					(Optional) 
+
+•	Mini-DisplayPort		 :	1(v1.2) 
+
+•	Mic-in/Headphone-out	 	 :	1/1 plus SPDIF Out x1 
+
+•	ESS SABRE HiFi	 	 :	Support 32bit/384KHz sampling rate, up to 12
+  					unmatched by PC, Mac or mobile devices DAC 
+
+•	Keyboard			 :	Single color backlighting (red) SteelSeries keyboard
+ 					Mechanical Keybaord with Switch by Cherry MX 
+
+•	AC Adapter 	 	 :	330W 
+
+•	Battery			 :	8-Cell 
+
+•	Dimension			 :	456(W) x 330(D) x 49(H)mm 
+
+•	Weight (KG)	 	 :	4.5kg 
+www.msi.com
