@@ -1,0 +1,46 @@
+ASUS ROG G752VY-GC346T – 32GB RAM
+
+Prosesor 	 	: Intel Skylake Core™ i7-6700HQ (Quad-Core, 6MB Cache, up to 3.6GHz)
+
+Ram 	 	: 32GB  – DDR4, 2133Mh
+
+Tipe Grafis 	 	: NVIDIA GeForce GTX 980M (4GB GDDR5)
+
+Hardisk 	 	: 1TB HDD 7200R SATA + 256GB SSD
+
+Display 	 	: 17.3-inch (43.94 cm) – 1920 x 1080 pixels (IPS), IPS
+
+Sistem Operasi	: Windows 10 64 Bit
+
+Webcam 	 	: 1.2MP HD Camera
+
+Optical Drive 	: DVD RW
+
+Connectivity 	: LAN 10/100/1000 Mbit/sec
+		  Integrated Intel® 802.11 AC
+		  Bluetooth 4.0
+
+Interface		 : 4 x USB 3.0 ports
+		   1 x Type C (Gen 1)
+		   1 x USB 3.1 – Type C (Gen 2) with Thunderbolt
+		   1 x Thunderbolt Port Type C (Gen 2)
+		   1 x VGA port/Mini D-sub 15-pin for external monitor
+		   1 x RJ45 LAN Jack for LAN insert
+		   1 x HDMI
+		   1 x Microphone-in jack
+		   1 x Headphone-out jack
+
+Audio		 : EAX® Advanced HD 5.0
+		   Support Dolby®
+		   3D Stereo Enhanced Sound System
+		   Sound Blaster Compatible
+		   Built-in Altec Lansing Speakers
+		   1 x Built-in Microphone
+		   S/PDIF Digital Output
+
+Battery 		: 8 Cells – Smart Lithium-Ion Battery Pack 90WH
+
+Height 		: 416.6 x 322.6 x 48.3 mm
+
+Weight 		: 4.31kg
+rog.asus.com
